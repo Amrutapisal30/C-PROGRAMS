@@ -24,4 +24,5 @@ void fun3() //function defination
 	
 	printf("\n it is function3 ");
    func2();
+	fun1();
 }
