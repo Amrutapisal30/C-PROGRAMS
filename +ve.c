@@ -7,6 +7,7 @@ main()
 	if(age>18)
 	{
 		printf("\nperson is eligible for voting");
+		printf("positive number");
 		
 	}
 	else
